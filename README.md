@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Josh! Here are some links to show some of my accomplishments. Check out my other repos to see some walkthroughs of Active Directory, </h1>
+<h1>Hi, I'm Josh! Here are some links to show some of my accomplishments. Check out my other repos to see some walkthroughs of Active Directory and projects, </h1>
 
 
 <h2>👨‍💻 IT Support Projects:</h2>
